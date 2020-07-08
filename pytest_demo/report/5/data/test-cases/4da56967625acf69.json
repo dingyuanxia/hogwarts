@@ -1,0 +1,54 @@
+{
+  "uid" : "4da56967625acf69",
+  "name" : "test_skip",
+  "fullName" : "test_allure#test_skip",
+  "historyId" : "bf3f7fa9061787a5323a5b436c629eb5",
+  "time" : {
+    "start" : 1594110575750,
+    "stop" : 1594110575750,
+    "duration" : 0
+  },
+  "description" : "this test is skipped",
+  "descriptionHtml" : "<p>this test is skipped</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: for a reason!",
+  "statusTrace" : "('/Users/heweimao/丁元霞/hogwarts/pytest_demo/test_allure.py', 15, 'Skipped: for a reason!')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_allure"
+  }, {
+    "name" : "host",
+    "value" : "heweimaodeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "58180-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_allure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4da56967625acf69.json",
+  "parameterValues" : [ ]
+}
